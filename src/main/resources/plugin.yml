@@ -1,0 +1,6 @@
+name: Teleport
+version: '${project.version}'
+main: me.jouu.teleport.Teleport
+api-version: 1.19
+authors: [ jou ]
+description: asdaw
